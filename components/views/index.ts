@@ -1,0 +1,5 @@
+export { default as PatientManagementView } from "./patient-management-view"
+export { DashboardOverview } from "./dashboard-overview"
+export { DeviceInventoryView } from "./device-inventory-view"
+export { DemoView } from "./demo-view"
+export { PlaceholderView } from "./placeholder-view"
